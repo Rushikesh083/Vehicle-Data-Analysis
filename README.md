@@ -1,30 +1,28 @@
----
-
-### ✅ 2. **Electric Vehicle Data Analysis** – `README.md`
-
-```markdown
 # ⚡ Electric Vehicle Data Analysis
 
-Comprehensive analysis of 50+ electric vehicle models using Python to uncover insights on price, range, and efficiency.
+A comprehensive data analysis project exploring trends and insights in the electric vehicle (EV) market. The project uses Python for data cleaning, visualization, and deriving actionable insights from specifications of over 50 EV models.
 
 ## 📌 Project Highlights
 
-- Data cleaning and normalization
-- Visualizations comparing price vs. range
-- Strategic recommendation based on total cost of ownership (TCO)
-- Tesla vs. competitors analysis
+- Cleaned and normalized diverse EV specifications from multiple manufacturers
+- Identified **25% price variation** among vehicles with similar ranges
+- Analyzed **price-to-range efficiency**, highlighting Tesla's **32% better performance** than competitors
+- Developed a **strategic recommendation framework** for optimal EV purchasing
+- Estimated **$12,000+ savings per vehicle** using total cost of ownership (TCO) metrics
+
+## 📊 Key Visualizations
+
+- Price vs. Range scatter plots
+- Manufacturer-wise efficiency comparisons
+- Optimal EV segments by cost-effectiveness
+- Highlighted top models with best value-for-money
 
 ## 🛠️ Tech Stack
 
 - Python
-- Pandas, Seaborn, Matplotlib
+- Pandas, NumPy
+- Seaborn, Matplotlib
 - Jupyter Notebook
 
-## 📊 Insights
+## 📁 Project Structure
 
-- Tesla had 32% better price-to-range ratio
-- Identified $12,000+ TCO savings per vehicle for fleet managers
-
----
-
-> Built for market intelligence and EV decision support.
